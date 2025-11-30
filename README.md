@@ -34,4 +34,4 @@ python3 src/assignment2.py
 - logging
 
 ## 🧑‍💻 Author
-Your Name
+Dhruv Arora
